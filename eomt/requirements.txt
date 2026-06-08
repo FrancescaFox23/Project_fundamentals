@@ -12,3 +12,9 @@ ipykernel==6.29.5
 fvcore==0.1.5.post20221221
 torchmetrics==1.7.1
 pycocotools==2.0.8
+numpy==2.2.4
+Pillow==11.1.0
+PyYAML==6.0.2
+huggingface_hub==0.34.4
+scikit-learn==1.6.1
+tqdm==4.67.1
